@@ -1,0 +1,4 @@
+
+jwt:
+  token:
+    secret: hello.world.ee.ff
